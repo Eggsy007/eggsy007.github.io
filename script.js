@@ -82,7 +82,7 @@ $(document).ready(function() {
   //         .catch(error => console.error('Error!', error.message))
   // })
     
-  // });
+  });
   
   function updateActiveSection() {
     var scrollPosition = $(window).scrollTop();
